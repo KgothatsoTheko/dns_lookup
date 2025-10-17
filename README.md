@@ -35,3 +35,8 @@ Enter a domain name (e.g., example.com): yahoo.com
 │ ...          │ ...                                  │
 └──────────────┴──────────────────────────────────────┘
 
+```
+
+## 📸 Screenshots
+
+<img width="1917" height="914" alt="image" src="https://github.com/user-attachments/assets/3a3df02a-29ec-45a2-bd2a-8a2ca7855b1e" />
